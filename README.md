@@ -1,0 +1,1 @@
+The is the repository for school managment system
